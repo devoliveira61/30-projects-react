@@ -1,0 +1,48 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.conversor {
+  margin: 10px;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: rgb(65, 68, 255);
+  color: #fff;
+}
+
+.campo-input {
+  border: none;
+  outline: none;
+  padding: 6px 12px;
+  margin-right: 10px;
+  border-radius: 2px;
+}
+
+.botao {
+  background-color: #fff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 2px;
+  color: #2c4bfc;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 400px) {
+  .conversor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  input {
+    margin: 12px;
+  } h1{
+    font-size: 25px
+  }
+}
