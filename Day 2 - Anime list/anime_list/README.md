@@ -11,7 +11,7 @@ Para realizar o projeto Utilizei uma API que retorna os animes e as informaçõe
 
 
 
-Confira o projeto aqui: [Anime List](anime_list.surge.sh)<br /><br />
+Confira o projeto aqui: [Anime List](https://www.anime_list.surge.sh)<br /><br />
 
 ## O que eu utilizei?
 
