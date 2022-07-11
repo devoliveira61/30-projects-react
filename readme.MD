@@ -17,8 +17,8 @@ CSS3 | ✅
 React | ✅
 
 Obrigado por ler ate aqui! 👋 caso queira, <a href="https://www.linkedin.com/in/devoliveira61/">Contate-me</a>
+<hr>
 
-</br>
 </br>
 </br>
 
